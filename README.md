@@ -7,7 +7,7 @@ https://www.kaggle.com/c/prudential-life-insurance-assessment
 Important: it is assumed that the pwd is in root directory of this project (if not, please use cd command to change the driectory)
 
 ### Prerequisites
-The script is written in python 3 with required packages:
+The script is written in python 3.6 with required packages:
 ```
 numpy==1.15.4
 scipy==1.2.0
@@ -25,7 +25,7 @@ pip install -Iv pandas==0.24.2
 
 run:
 ```
-pip3 main.py
+python main.py
 ```
 
 ### Coding style tests
