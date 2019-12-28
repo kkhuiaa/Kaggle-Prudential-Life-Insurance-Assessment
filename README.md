@@ -12,10 +12,7 @@ The script is written in python 3 with required packages:
 numpy==1.15.4
 scipy==1.2.0
 pandas==0.24.2
-opencv==3.4.4
-keras==2.2.4
-tensorflow==1.13.1
-matplotlib==3.0.4
+scikit-learn==0.21.2
 ```
 
 ### Installing
